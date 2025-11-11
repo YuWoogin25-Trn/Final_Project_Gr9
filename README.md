@@ -1,16 +1,3 @@
----
-
-```markdown
-# 🌺 Flower AI Recognition & Persistent History System  
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask)
-![React](https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
----
-
 ## 🚀 Project Overview  
 
 **Flower AI Recognition & Persistent History System** is a **full-stack web application** built to perform **Image Classification** on 102 flower species using **Deep Learning (Transfer Learning – Xception Model)**.  
