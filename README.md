@@ -111,12 +111,12 @@ npm start
 
 ## 🌸 Features Summary
 
-- ✅ Real-time AI-based flower recognition
-- ✅ Transfer Learning with **Xception Model**
-- ✅ JWT authentication & session handling
-- ✅ MongoDB history persistence
-- ✅ Responsive React interface
-- ✅ Scalable 3-tier architecture
+✅  Real-time AI-based flower recognition
+✅  Transfer Learning with **Xception Model**
+✅  JWT authentication & session handling
+✅  MongoDB history persistence
+✅  Responsive React interface
+✅  Scalable 3-tier architecture
 
 ---
 
