@@ -1,6 +1,6 @@
 ## 🚀 Project Overview  
 
-**Flower AI Recognition & Persistent History System** is a **web application** built to perform **Image Classification** on 102 flower species using **Deep Learning (Transfer Learning – Xception Model)**.  
+**An CNN-based flower image recognition system to support online flower sales** is a **web application** built to perform **Image Classification** on 102 flower species using **Deep Learning (Transfer Learning – Xception Model)**.  
 
 The project provides a smooth and modern interface for users to:
 - Upload or drag-and-drop an image of a flower.  
