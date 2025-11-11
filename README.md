@@ -102,7 +102,7 @@ npm start
 
 1. Visit **[http://localhost:3000](http://localhost:3000)**
 2. Click the **Account icon** → select **Login**
-3. Log in using test credentials (existing in MongoDB `users` collection, you can try with email:guest0000@gmail.com; password: 0000)
+3. Log in using test credentials (existing in MongoDB `users` collection)
 4. Drag and drop a flower image into the app
 5. The system predicts the flower type
 6. Check MongoDB → `histories` collection for saved records
