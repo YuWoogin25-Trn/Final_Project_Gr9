@@ -161,5 +161,3 @@ Final_Project_Gr9/
 
 > 🌼 *“Let your AI bloom — just like a flower.”* 🌼
 
-```
-
